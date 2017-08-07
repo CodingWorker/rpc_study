@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/local/Local.iml" filepath="$PROJECT_DIR$/local/Local.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPCDemo.iml" filepath="$PROJECT_DIR$/RPCDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remote/Remote.iml" filepath="$PROJECT_DIR$/remote/Remote.iml" />
+    </modules>
+  </component>
+</project>
